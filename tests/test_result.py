@@ -1,3 +1,4 @@
+from json import JSONDecoder
 from os.path import dirname, join
 import unittest
 
@@ -20,6 +21,12 @@ class TestResult(unittest.TestCase):
         with open(join(THIS_DIR, "expected_titles.txt"), "r") as f:
             expected = f.read().strip()
         actual = self.r1.render()
+        self.assertEqual(expected, actual)
+
+    def test_dict(self):
+        with open(join(THIS_DIR, "expected_dict.json"), "r") as f:
+            expected = JSONDecoder().decode(f.read())
+        actual = self.r1.key_elements()
         self.assertEqual(expected, actual)
 
 
