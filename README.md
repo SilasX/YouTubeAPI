@@ -1,6 +1,6 @@
 #### Installation
 
-Set up a virtual environment
+Clone the repo, and set up a virtual environment from the root directory:
 
     virtualenv venv
     . ./venv/bin/activate
