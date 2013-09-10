@@ -8,5 +8,5 @@ class Request(object):
         self.result = None
         self.url = "http://gdata.youtube.com/feeds/api/standardfeeds/most_viewed?alt=json"
 
-    def most_viewed_all(self):
+    def get_most_viewed_all(self):
         self.result = Result(urllib2.urlopen(self.url).read())
