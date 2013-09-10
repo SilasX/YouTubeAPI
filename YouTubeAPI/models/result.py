@@ -17,6 +17,8 @@ class Result(object):
             z = self.result_dict[-1]
             z[u'name'] = result['title']['$t']
             z[u'URL'] = result['link'][0]['href']
+            z[u'category'] = result['category'][1]['label']
+            z[u'thumbnail'] = result["media$group"]["media$thumbnail"][0]['url']
         return self.result_dict
 
     def render(self):

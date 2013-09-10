@@ -12,4 +12,6 @@ for result in results:
     z = output[-1]
     z['name'] = result['title']['$t']#.encode('utf8')
     z['URL'] = result['link'][0]['href']#.encode('utf8')
+    z['category'] = result['category'][1]['label']#.encode('utf8')
+    z['thumbnail'] = result["media$group"]["media$thumbnail"][0]['url']#.encode('utf8')
 print dumps(output).encode('utf8')

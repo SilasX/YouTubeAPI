@@ -1,102 +1,152 @@
 [
     {
         "URL": "http://www.youtube.com/watch?v=My2FRPA3Gf8&feature=youtube_gdata", 
-        "name": "Miley Cyrus - Wrecking Ball"
+        "category": "Music", 
+        "name": "Miley Cyrus - Wrecking Ball", 
+        "thumbnail": "http://i1.ytimg.com/vi/My2FRPA3Gf8/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=HSJMoH7tnvw&feature=youtube_gdata", 
-        "name": "Jimmy Kimmel Reveals \"Worst Twerk Fail EVER - Girl Catches Fire\" Prank"
+        "category": "Comedy", 
+        "name": "Jimmy Kimmel Reveals \"Worst Twerk Fail EVER - Girl Catches Fire\" Prank", 
+        "thumbnail": "http://i1.ytimg.com/vi/HSJMoH7tnvw/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=2_JQxm53114&feature=youtube_gdata", 
-        "name": "Moto X \"Lazy Phone\" Ad -- Touchless Control"
+        "category": "Science & Technology", 
+        "name": "Moto X \"Lazy Phone\" Ad -- Touchless Control", 
+        "thumbnail": "http://i1.ytimg.com/vi/2_JQxm53114/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=tlI022aUWQQ&feature=youtube_gdata", 
-        "name": "What is reddit?"
+        "category": "Education", 
+        "name": "What is reddit?", 
+        "thumbnail": "http://i1.ytimg.com/vi/tlI022aUWQQ/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=Pzesuv9dPig&feature=youtube_gdata", 
-        "name": "GTA V - The Musical (GTA 5)"
+        "category": "Film & Animation", 
+        "name": "GTA V - The Musical (GTA 5)", 
+        "thumbnail": "http://i1.ytimg.com/vi/Pzesuv9dPig/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=SQRduwgFMGo&feature=youtube_gdata", 
-        "name": "NERF Trick Shots"
+        "category": "Sports", 
+        "name": "NERF Trick Shots", 
+        "thumbnail": "http://i1.ytimg.com/vi/SQRduwgFMGo/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=VWplhhktgqs&feature=youtube_gdata", 
-        "name": "A Day With PlayStation\u00ae"
+        "category": "Gaming", 
+        "name": "A Day With PlayStation\u00ae", 
+        "thumbnail": "http://i1.ytimg.com/vi/VWplhhktgqs/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=lTQq9GirxJQ&feature=youtube_gdata", 
-        "name": "Fangirls at School"
+        "category": "Film & Animation", 
+        "name": "Fangirls at School", 
+        "thumbnail": "http://i1.ytimg.com/vi/lTQq9GirxJQ/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=m2ThTb6iffA&feature=youtube_gdata", 
-        "name": "Drone's eye view of Burning Man 2013"
+        "category": "Travel & Events", 
+        "name": "Drone's eye view of Burning Man 2013", 
+        "thumbnail": "http://i1.ytimg.com/vi/m2ThTb6iffA/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=oFZeVDyhzOQ&feature=youtube_gdata", 
-        "name": "Eminem talks Berzerk, MMLP2 & asks Brent Musburger to call a Lions Game"
+        "category": "Sports", 
+        "name": "Eminem talks Berzerk, MMLP2 & asks Brent Musburger to call a Lions Game", 
+        "thumbnail": "http://i1.ytimg.com/vi/oFZeVDyhzOQ/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=aAM5MxP87Gc&feature=youtube_gdata", 
-        "name": "Amazing Score In China U-20  Soccer Game,   Amazing Own Goal\uff0c\u8fbd\u5b81\u5168\u8fd0\u4f1a\u6700\u7cbe\u5f69\u8fdb\u7403\uff0c2013"
+        "category": "People & Blogs", 
+        "name": "Amazing Score In China U-20  Soccer Game,   Amazing Own Goal\uff0c\u8fbd\u5b81\u5168\u8fd0\u4f1a\u6700\u7cbe\u5f69\u8fdb\u7403\uff0c2013", 
+        "thumbnail": "http://i1.ytimg.com/vi/aAM5MxP87Gc/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=TlV0ySXukmA&feature=youtube_gdata", 
-        "name": "Ballpoint Barber // Stop-motion Reverse Haircut and Beard-cut // Trim 2"
+        "category": "Entertainment", 
+        "name": "Ballpoint Barber // Stop-motion Reverse Haircut and Beard-cut // Trim 2", 
+        "thumbnail": "http://i1.ytimg.com/vi/TlV0ySXukmA/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=HLvBZQSIGkk&feature=youtube_gdata", 
-        "name": "Mercedes-Benz TV: Concept S-Class Coup\u00e9 - Teaser"
+        "category": "Autos & Vehicles", 
+        "name": "Mercedes-Benz TV: Concept S-Class Coup\u00e9 - Teaser", 
+        "thumbnail": "http://i1.ytimg.com/vi/HLvBZQSIGkk/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=qXlgOX95Q0U&feature=youtube_gdata", 
-        "name": "E-mails"
+        "category": "Comedy", 
+        "name": "E-mails", 
+        "thumbnail": "http://i1.ytimg.com/vi/qXlgOX95Q0U/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=wqks_R90ykI&feature=youtube_gdata", 
-        "name": "Fake Professor on the First Day PRANK -- CHAMBER BOYS"
+        "category": "Comedy", 
+        "name": "Fake Professor on the First Day PRANK -- CHAMBER BOYS", 
+        "thumbnail": "http://i1.ytimg.com/vi/wqks_R90ykI/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=CevxZvSJLk8&feature=youtube_gdata", 
-        "name": "Katy Perry - Roar (Official)"
+        "category": "Music", 
+        "name": "Katy Perry - Roar (Official)", 
+        "thumbnail": "http://i1.ytimg.com/vi/CevxZvSJLk8/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=INmtQXUXez8&feature=youtube_gdata", 
-        "name": "ROBOCOP - Official Trailer (2014) [HQ]"
+        "category": "Entertainment", 
+        "name": "ROBOCOP - Official Trailer (2014) [HQ]", 
+        "thumbnail": "http://i1.ytimg.com/vi/INmtQXUXez8/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=6Bgfx8t0fmI&feature=youtube_gdata", 
-        "name": "First Person Legend of Zelda"
+        "category": "Entertainment", 
+        "name": "First Person Legend of Zelda", 
+        "thumbnail": "http://i1.ytimg.com/vi/6Bgfx8t0fmI/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=ziaygy3IfMw&feature=youtube_gdata", 
-        "name": "BUILDING THE DRAGONS FOR GAME OF THRONES - EFFECTS EXCLUSIVE -  WIRED DESIGN FX"
+        "category": "Entertainment", 
+        "name": "BUILDING THE DRAGONS FOR GAME OF THRONES - EFFECTS EXCLUSIVE -  WIRED DESIGN FX", 
+        "thumbnail": "http://i1.ytimg.com/vi/ziaygy3IfMw/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=47rIvUs_bRk&feature=youtube_gdata", 
-        "name": "What Do We See in The Dark?"
+        "category": "Science & Technology", 
+        "name": "What Do We See in The Dark?", 
+        "thumbnail": "http://i1.ytimg.com/vi/47rIvUs_bRk/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=hf0SIRxXvRo&feature=youtube_gdata", 
-        "name": "LADEE Launches!"
+        "category": "Science & Technology", 
+        "name": "LADEE Launches!", 
+        "thumbnail": "http://i1.ytimg.com/vi/hf0SIRxXvRo/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=H-khULLjtgU&feature=youtube_gdata", 
-        "name": "Virgin Galactic's Second Rocket Powered Flight Tail Footage"
+        "category": "Science & Technology", 
+        "name": "Virgin Galactic's Second Rocket Powered Flight Tail Footage", 
+        "thumbnail": "http://i1.ytimg.com/vi/H-khULLjtgU/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=ZflIMBxyIak&feature=youtube_gdata", 
-        "name": "Can You Trust Your Eyes?"
+        "category": "Science & Technology", 
+        "name": "Can You Trust Your Eyes?", 
+        "thumbnail": "http://i1.ytimg.com/vi/ZflIMBxyIak/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=_teB4ujKzdE&feature=youtube_gdata", 
-        "name": "\"Clumsy Cats Compilation\" || CFS"
+        "category": "Pets & Animals", 
+        "name": "\"Clumsy Cats Compilation\" || CFS", 
+        "thumbnail": "http://i1.ytimg.com/vi/_teB4ujKzdE/default.jpg"
     }, 
     {
         "URL": "http://www.youtube.com/watch?v=1sIWez9HAbA&feature=youtube_gdata", 
-        "name": "Introducing the iPhone 5S"
+        "category": "Comedy", 
+        "name": "Introducing the iPhone 5S", 
+        "thumbnail": "http://i1.ytimg.com/vi/1sIWez9HAbA/default.jpg"
     }
 ]
